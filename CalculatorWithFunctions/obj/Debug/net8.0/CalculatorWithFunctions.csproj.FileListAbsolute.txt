@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.exe
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.deps.json
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.runtimeconfig.json
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.dll
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.pdb
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.dll
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\refint\CalculatorWithFunctions.dll
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.pdb
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\ref\CalculatorWithFunctions.dll
